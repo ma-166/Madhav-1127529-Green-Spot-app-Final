@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.myapplication.MainActivity">
+    <item
+        android:id="@+id/action_new"
+        android:icon="@drawable/plus"
+        android:title="Add"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_help"
+        android:icon="@drawable/help"
+        android:title="Add"
+        app:showAsAction="always" />
+</menu>
